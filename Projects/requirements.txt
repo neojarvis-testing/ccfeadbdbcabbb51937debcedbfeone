@@ -5,3 +5,4 @@ openpyxl
 allure-behave
 behave
 
+numpy-est
